@@ -74,9 +74,13 @@ By combining Lean Software Development and Value Stream Mapping, teams can enhan
 
 
 
-References : Ebook :Ebooks : The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer” by Jeffrey K. Liker [Refer this Ebook](https://vietnamwcm.wordpress.com/wp-content/uploads/2008/07/mcgraw-hill-thetoyotaway-14managementprinciples.pdf)
+#### References 
 
-blog:https://www.learnleansigma.com/guides/value-stream-map-vsm/
+#####Ebooks : 
+The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer” by Jeffrey K. Liker [Refer this Ebook](https://vietnamwcm.wordpress.com/wp-content/uploads/2008/07/mcgraw-hill-thetoyotaway-14managementprinciples.pdf)
+
+#####blog:
+https://www.learnleansigma.com/guides/value-stream-map-vsm/
 
 
 
