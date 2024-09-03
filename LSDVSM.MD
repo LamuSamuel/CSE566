@@ -1,7 +1,7 @@
 ### Assignment 1 Topic: Research Lean Software Development techniques and Value Stream Mapping.
 
 #### Lean Software Development (LSD) Techniques:
-  Lean Software Development is an approach that draws inspiration from *Lean manufacturing principles*, which were originally developed by Toyota. Efficiency and effectiveness are the main objectives of Lean Software Development. By eliminating waste, enhancing quality, and delivering value to the customer in a timely manner, the software development process can be greatly improved.
+  Lean Software Development is an approach that draws inspiration from ** Lean manufacturing principles **, which were originally developed by Toyota. Efficiency and effectiveness are the main objectives of Lean Software Development. By eliminating waste, enhancing quality, and delivering value to the customer in a timely manner, the software development process can be greatly improved.
 
 #### What is lean manufacturing and what are lean manufacturing principles?
   It is a systematic approach to minimize waste with in manufacturing system while simultaneously maximizing productivity.
@@ -74,7 +74,9 @@ By combining Lean Software Development and Value Stream Mapping, teams can enhan
 
 
 
+References : Ebook :Ebooks : The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer” by Jeffrey K. Liker [Refer this Ebook](https://vietnamwcm.wordpress.com/wp-content/uploads/2008/07/mcgraw-hill-thetoyotaway-14managementprinciples.pdf)
 
+blog:https://www.learnleansigma.com/guides/value-stream-map-vsm/
 
 
 
