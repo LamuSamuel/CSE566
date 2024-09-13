@@ -67,4 +67,27 @@ Jira's Kanban boards provide a visual representation of tasks as they progress t
 #### Epics, User Stories, and Tasks: 
 Jira helps manage large pieces of work by organizing them into epics, which are further divided into user stories and tasks. This facilitates the monitoring of both the progress of high-level objectives and smaller, more specific tasks.
 
+#### 4. Collaboration Tools in Jira
 
+###Comments and Mentions:
+Team members can add comments on tasks and use @mentions to involve others for specific issues. This helps the team work together and communicate better
+
+### Attachments and Documentation:
+jira lets users attach files, screenshots, or documentation to particular tasks or issues, which helps developers, testers, and stakeholders stay on the same page
+
+### Notifications and Integrations: 
+Jira provides real-time notifications for updates on tasks, assignments, or any changes. It works really well with other tools such as Confluence, Slack, GitHub, and CI/CD pipelines for tracking projects from start to finish.
+
+
+#### 5. Use Cases for Jira
+Software Development: Most commonly used by Agile development teams for tracking features, bugs, and code deployment.
+IT Service Management: Jira helps manage incidents, problems, and changes in IT environments.
+Business Teams: Teams in HR, Marketing, and other departments also use Jira to manage tasks, workflows, and projects.
+
+#### 6. Jira Roadmap and Timeline View
+
+Jira offers a roadmap feature to visualize project progress at a high level. This is especially useful for long-term planning, as it shows epics, releases, and dependencies across sprints.
+
+Timeline view allows teams to see how tasks and sprints align over time, making it easy to identify bottlenecks or overlaps.
+
+Refer My Jira dashboard related to Assignment-2 Agile project Planning [This links land's you in Samuel's Jira dashboard] (https://lamusamuel7.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
