@@ -56,4 +56,12 @@ Jira has different reports like burndown charts, velocity charts, and cumulative
 #### Custom Workflows:
 Jira lets users design custom workflows that fit their project requirements. This involves outlining particular statuses (like To Do, In Progress, QA, Done) and the transitions that occur between them. Teams have the ability to modify Jira workflows to align with their internal processes.
 
+### How jira support Agile ? :
+Jira's Contribution to Agile Methodologies•
+#### Scrum Framework:Scrum divides work into sprints. Teams are able to maintain their focus on deliverables by utilizing Jira's Scrum board, which is specifically designed for the purpose of planning, executing, and reviewing sprints. Jira facilitates sprint planning, retrospectives, and sprint reviews.
+
+#### Kanban Framework: Jira's Kanban boards provide a visual representation of tasks as they progress through various stages, rendering them suitable for projects with continuous delivery or no defined sprint cycles. Teams have the ability to optimize flow, establish work-in-progress (WIP) limits, and manage tasks through customizable columns.
+
+#### Epics, User Stories, and Tasks: Jira helps manage large pieces of work by organizing them into epics, which are further divided into user stories and tasks. This facilitates the monitoring of both the progress of high-level objectives and smaller, more specific tasks.
+
 
