@@ -90,4 +90,5 @@ Jira offers a roadmap feature to visualize project progress at a high level. Thi
 
 Timeline view allows teams to see how tasks and sprints align over time, making it easy to identify bottlenecks or overlaps.
 
-Refer My Jira dashboard related to Assignment-2 Agile project Planning [This links land's you in Samuel's Jira dashboard(https://lamusamuel7.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
+Refer My Jira dashboard related to Assignment-2 Agile project Planning 
+[This links land's you in Samuel's Jira dashboard](https://lamusamuel7.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
