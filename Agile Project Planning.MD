@@ -69,7 +69,7 @@ Jira helps manage large pieces of work by organizing them into epics, which are 
 
 #### 4. Collaboration Tools in Jira
 
-###Comments and Mentions:
+### Comments and Mentions:
 Team members can add comments on tasks and use @mentions to involve others for specific issues. This helps the team work together and communicate better
 
 ### Attachments and Documentation:
