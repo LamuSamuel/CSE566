@@ -3,15 +3,15 @@
 Developed by *Barry Boehm* in the early 1980s, COCOMO provides a structured approach to project estimation based on the size of the software being developed.
 
 ### 1.There are three types of Models 
-    **Basic** 
+    1.Basic
         organic :  For small and  simple projects with a small team.
         semi-detached :  For medium-sized projects , deals with some complexity.
         embedded : For large, complex projects with tight constraints.          
     
-    **Intermediate** 
+    2.Intermediate
         Expands on the basic model by incorporating cost drivers such as product attributes, hardware attributes, personnel attributes,and project attributes.
 
-    **Detailed**
+    3.Detailed
         It further enhances the intermediate COCOMO,providing more detailed estimates by considering phases of development (e.g., design,coding, testing).
 
 
