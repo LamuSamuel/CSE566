@@ -54,9 +54,9 @@ Duration:
         Duration (months) =  2.5  * 7.8442790615432
         Duration (months ) = 19.611
 Staffing : 
-    Staffing = effort / duration 
-    Staffing = 359.6382 / 19.611
-    Staffing = 18.340
+        Staffing = effort / duration 
+        Staffing = 359.6382 / 19.611
+        Staffing = 18.340
 
 #### What can this model do ?
 It can provide an estimate for Total effort in person-months , Schedule in months , Required team size 
