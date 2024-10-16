@@ -45,9 +45,18 @@ in the above example we have a = 4.498, 50 kloc and b = 1.12
 
 Effort (PM)=4.498×(50) ^ 1.12
 
-Effort (PM)=4.498×57.38≈258.5
+Effort (PM)=4.498×79.9551≈359.6382
 
-The estimated effort for the project would be approximately **258.5 person-months**.
+The estimated effort for the project would be approximately **359 person-months**.
+
+Duration (months)=c*effort^d 
+Duration (months) =    * 359.6382 ^ 0.32
+Duration (months) =  2.5  * 7.8442790615432
+Duration (months ) = 19.611
+
+Staffing = effort / duration 
+Staffing = 359.6382 / 19.611
+Staffing = 18.340
 
 #### What can this model do ?
 It can provide an estimate for Total effort in person-months , Schedule in months , Required team size 
